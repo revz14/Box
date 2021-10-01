@@ -1,0 +1,11 @@
+.date-pick{
+    display: flex;
+    flex-direction: row;
+    height: 40px;
+    /* padding: 10px 2px; */
+
+}
+.date-box{
+    border: none;
+}
+

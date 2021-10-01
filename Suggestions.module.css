@@ -1,0 +1,26 @@
+.suggestions{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-left: 1px;
+    max-height: 200px;
+    min-height: auto;
+    overflow-y: auto;
+    max-width: 970px;
+    /* background: #fff; */
+    /* border: 1px #D3D3D3;     */
+    outline-style: solid;
+    outline-color: #D3D3D3;
+    outline-width: thin;
+}
+.empdata:hover{
+    cursor: pointer;
+    background-color: lightgray;
+}
+.tab td{
+    padding:10px 4px;
+}
+.data td{
+    padding-left: 4px;
+    padding-right: 100px;
+}

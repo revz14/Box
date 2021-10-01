@@ -1,0 +1,46 @@
+.Cont{
+display: flex;
+/* border-radius: 10px; */
+}
+.table{
+    outline-style: solid;
+    outline-width: thin;
+    outline-color: #D3D3D3;
+    width: 750px;
+    margin: 1px  310px;
+    
+    /* padding-left: 40px; */
+    /* border-radius: 25px; */
+}
+.head{   
+    height: 30px;
+    width: 1000px;
+    background-color: #D3D3D3;
+   
+}
+.name td{
+    padding-right: 100px;
+}
+.gen td{
+    padding-right:100px;
+}
+.contact {
+    height: 30px;
+    width: 1000px;
+    background-color: #D3D3D3;
+    
+}
+.contact td{
+    padding-left:5px;
+    padding-right: 250px;
+}
+.lang td{
+    
+    padding-right: 145px;
+}
+.email td{
+    padding-right: 165px;
+}
+.phn td{
+    padding-right: 212px;
+}

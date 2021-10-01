@@ -1,0 +1,23 @@
+/* .outline{
+    display: flex;
+    flex-direction: column;
+} */
+.noResult{
+    text-align: center;
+}
+.noResult h4{
+    color: red;
+}
+.butn{
+    /* margin: 350px 50px 75px 100px; */
+    padding-top: 350px;
+    padding-left: 420px;
+    /* padding-right:10px; */
+    bottom: 20%;
+    position: fixed;
+    
+}
+.pap{
+    width: 100%;
+    max-width: 200;
+}

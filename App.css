@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+}
+.App{
+  padding: 0px 20px;
+  display: flex;
+}
+.head{
+  background-color:#0096FF;
+  padding: 12px;
+}
+.tabs-box{
+  padding: 1px 1px;
+}
+

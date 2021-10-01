@@ -1,0 +1,23 @@
+.header{
+  padding: 0px 320px;
+  max-width: 600px;
+}
+.Head{
+  
+    background-color: #0096FF;
+    padding: 10px;
+    width: 750px;
+   
+  }
+  .title{
+    padding: 10px;
+  }
+  .tabs{
+    /* position: relative; */
+    text-align: center;
+    /* top: 15px; */
+    left: 20px;
+    /* background-color:yellow; */
+    margin: 0%;
+    /* padding:50px ; */
+  }
